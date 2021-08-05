@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bea19d41-d7eb-490e-b49b-89f87d890730" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1wIrLOqBCdkpFSR7JR4S0dPfahn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bea19d41-d7eb-490e-b49b-89f87d890730" name="Default Changelist" comment="" />
+      <created>1628156886898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628156886898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628167337634">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1628167337634" />
+    <state x="102" y="100" width="1078" height="480" key="AVDManager" timestamp="1628167844471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="102" y="100" width="1078" height="480" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1628167844471" />
+    <state x="454" y="87" key="AndroidProcessChooserDialog" timestamp="1628167334331">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="454" y="87" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1628167334331" />
+    <state x="143" y="0" key="SettingsEditor" timestamp="1628167821307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1628167821307" />
+    <state x="298" y="153" key="run.anything.popup" timestamp="1628163193262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1628163193262" />
+  </component>
+</project>
